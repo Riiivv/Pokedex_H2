@@ -117,7 +117,3 @@ Misty,5e884898da28047151d0e56f8dc6292773603d0d6aabbdd64567e84f4a6a7b88
 - Implementer en GUI til at erstatte konsolgrænsefladen.
 
 ---
-Tak for at bruge Pokédex-applikationen! Gotta catch 'em all! 🐉
-
-hvordan laver jeg en readme fil på github?
-
